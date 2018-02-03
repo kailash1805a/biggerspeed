@@ -1,0 +1,32 @@
+body {
+            margin: 0;
+            padding: 0;
+            background-color: #3A7EA7;
+            font-family: Verdana, Geneva, sans-serif;
+            font-style: normal;
+            font-variant: normal;
+            color: white;
+        }
+
+        h1 {
+            font-family: Verdana, Geneva, sans-serif;
+            font-size: 50px;
+            font-style: normal;
+            font-variant: normal;
+            font-weight: bold;
+            line-height: 26.4px;
+        }
+
+        .main-container {
+            text-align: center;
+        }
+
+        .speed-count {
+            text-align: center;
+            vertical-align: 0%;
+        }
+
+        .bigger-count {
+            font-weight: bolder;
+            font-size: 80px;
+        }
